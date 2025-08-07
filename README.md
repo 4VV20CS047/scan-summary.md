@@ -44,7 +44,7 @@ All scan screenshots are saved in the `/images` directory.
 
 Example:
 
-![Scan Screenshot]( https://tinyurl.com/scanned-task)
+![Scan Screenshot](https://github.com/4VV20CS047/scan-summary.md/blob/main/Scan%20results.jpeg)
 
 
 
